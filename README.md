@@ -1,3 +1,4 @@
+![logo](https://th.bing.com/th/id/OIG.92qNaT9S1F8ScU3LwV1P?w=1024&h=1024&rs=1&pid=ImgDetMain)
 <h1 align="center">Hi 👋, I'm B.Jansepyara</h1>
 <h3 align="center">Experienced Data Analyst with 2+ years of expertise in interpreting and analyzing data for strategic business solutions. Proficient in statistics, mathematics, and analytics, with a keen understanding of business operations. Skilled in crafting interactive dashboards and delivering insightful data-driven recommendations to drive business growth.</h3>
 
